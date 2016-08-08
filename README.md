@@ -1,5 +1,7 @@
-# mcnulty
-McNulty project slides and docs
+# Project McNulty
+This repository contains code from my third project at Metis, Project McNulty.  The objective was to use classification methods and SQL to compile databases with a team and answer an independent question.  
+
+
 
 **politifact_api_scrape** : script to pull data from Politifact.com API
 
